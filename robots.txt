@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-dajaccio.com/
+Sitemap: https://casino-dajaccio.com/sitemap.xml

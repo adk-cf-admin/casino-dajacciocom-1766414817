@@ -1,0 +1,205 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#272626",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#0c0d0c",
+            "main-bg": "#EFEFEF",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#6A367F",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#E4C862",
+            "yellow": "#6A367F",
+            "yellow-button": "#E4C862",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#6A367F",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#141414",
+            "copyright": "#e7e7d5",
+            "starColor": "#6A367F",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino d’Ajaccio ",
+            "title": "Casino d’Ajaccio : machines à sous, roulette, blackjack, poker, restaurant et soirées",
+            "description": "Guide complet du Casino d’Ajaccio : slots, tables, soirées poker, bars et restaurant, règles d’accès, mises et offres spéciales. Découvrez comment organiser une soirée confortable et profiter au maximum de l’expérience.",
+            "canonical": "casino-dajaccio.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1188",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casino-dajaccio.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1189",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1190"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1193",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino d’Ajaccio  Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino d’Ajaccio — jeux, ambiance, bars et divertissements",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1194",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1195",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Emplacement pratique près du front de mer",
+                "Machines à sous modernes, catalogue renouvelé",
+                "Tables en direct : roulette et blackjack",
+                "Poker cash game et tournois le soir",
+                "Ambiance conviviale, débutants et habitués",
+                "Restaurant et bar pour faire une pause",
+                "Horaires étendus jusqu’à tard la nuit"
+            ],
+            "advantagesAfterText": "Le Casino d’Ajaccio séduit par un équilibre entre jeu, détente et vie nocturne. On peut y organiser une soirée complète : slots, tables, puis une pause gourmande. L’expérience reste fluide, confortable et pensée pour différents styles de joueurs.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino d’Ajaccio App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1196",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino d’Ajaccio App",
+            "mobileGooglePlayImageTitle": "Casino d’Ajaccio App",
+            "mobileIosImageTitle": "Casino d’Ajaccio App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino d’Ajaccio",
+                "description1": "Le casino se démarque par un mix entre sensations immédiates sur les slots et jeu plus technique aux tables. On y enchaîne facilement jeu, bar et dîner, avec une soirée rythmée et complète.\n",
+                "items": [
+                    "Bonus jusqu’à 200 €.",
+                    "Jackpots jusqu’à 50 000 €.",
+                    "Tournois dotés 5 000 €."
+                ],
+                "description2": "Le Casino d’Ajaccio est un lieu où le jeu se combine naturellement avec la détente et l’esprit de la ville. Les intérieurs évoquent une ambiance de soirée, sans tomber dans l’excès de rigidité. La salle des machines à sous offre des thèmes variés, du classique au plus moderne. Les jeux de table apportent le ressenti d’un « vrai casino » et plaisent aux amateurs de rythme et de stratégie.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1197",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " L’espace poker attire celles et ceux qui aiment la compétition et les échanges. Entre deux sessions, on passe facilement au bar ou au restaurant pour garder un tempo agréable. Le personnel guide volontiers les nouveaux visiteurs et explique les bases si besoin. Des animations et soirées thématiques renouvellent l’expérience au fil des semaines. On peut y venir pour une courte parenthèse ou pour une soirée complète. L’ensemble en fait une destination polyvalente, axée sur le plaisir, le service et une vraie vie nocturne."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino d’Ajaccio — une ambiance chic pour une soirée complète",
+                "description": "<p>\nLe Casino d’Ajaccio accueille avec une atmosphère élégante et résolument “soirée” : lumières douces, détails soignés et sensation d’intimité dans les espaces de jeu. Le style équilibre une touche classique de casino et une modernité urbaine, ce qui rend l’endroit agréable aussi bien en tenue habillée qu’en casual soigné. L’agencement facilite la circulation entre machines à sous, tables et zones de détente. Le rythme interne se construit surtout en fin de journée, lorsque l’énergie monte et que l’on ressent davantage l’esprit “sortie”. Cette ambiance permet de concilier adrénaline au jeu et confort pendant les pauses.\n\n<\/p>\n<br>\n\n<p>\nLes horaires s’adressent à celles et ceux qui aiment les sorties tardives et les soirées sans précipitation. En général, l’ouverture se fait en journée avec une fermeture très tardive, parfois prolongée lors des périodes plus animées. C’est pratique si vous souhaitez d’abord vous promener, dîner, puis venir jouer. Ce type de planning rend la gestion du temps et du budget plus simple : une session, une pause, puis un retour aux tables. La flexibilité plaît beaucoup, car on n’est pas contraint par une fermeture trop tôt. Le casino s’intègre ainsi facilement à un programme urbain ou touristique.\n<\/p>\n<br>\n<p>\nLes bars occupent une place clé, car ils structurent les pauses et l’expérience globale. Le bar est souvent perçu comme un point de respiration : cocktail, encas léger, conversation, puis retour au jeu sans stress. En soirée, il peut devenir un vrai prolongement de l’animation, avec une ambiance plus musicale et plus festive. C’est idéal pour ceux qui viennent autant pour socialiser que pour tenter leur chance. Le Casino d’Ajaccio prend alors une dimension de lieu de vie nocturne, au‑delà du simple jeu. Et la partie restauration permet de conclure la soirée dans un cadre confortable et qualitatif.\n\n<\/p>\n<br>\n<p>\nCôté hébergement, on privilégie généralement des hôtels en ville, proches, afin de rester autonome la nuit. Beaucoup de visiteurs choisissent un établissement à distance de marche ou à quelques minutes en taxi. Cette option est particulièrement agréable si vous prévoyez une longue soirée, un show ou une session poker prolongée. Cela évite aussi les contraintes de stationnement et les retours tardifs compliqués. On gagne en sérénité, en sécurité et en confort. Pour les voyageurs, c’est un avantage pratique majeur.\n\n<\/p>\n<br>\n<p>\nLes animations et événements contribuent à l’image “soirée complète” du Casino d’Ajaccio. Dans ce type d’établissement, on retrouve souvent des soirées à thème, des sets musicaux, des mini‑shows et des rendez‑vous saisonniers qui renouvellent l’intérêt. La régularité donne envie de revenir : un jour plutôt jeu et cocktails, un autre davantage musique et ambiance. Même si l’on vient avant tout pour les machines, l’animation crée un décor vivant et une sensation d’instant spécial. En groupe, c’est particulièrement efficace : certains jouent, d’autres profitent du bar, et tout le monde s’amuse. Le casino devient alors une destination de divertissement globale.\n\n<\/p>\n<br>\n<p>\nLes programmes bonus et la fidélité reposent généralement sur une logique simple : plus vous revenez, plus les avantages deviennent personnalisés. Cela peut inclure des attentions, des invitations à des événements, des offres dédiées sur le bar ou le restaurant, ainsi que des statuts donnant accès à davantage de privilèges. L’intérêt est de transformer l’expérience en relation durable, au‑delà d’un service standard. Les habitués y gagnent souvent en confort et en valeur, notamment lors des soirées spéciales. Les nouveaux visiteurs, eux, découvrent un cadre accueillant qui encourage la découverte progressive. Au final, le Casino d’Ajaccio s’impose comme un lieu où l’on aime revenir.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et argent au Casino d’Ajaccio — équipe, paiements et retrait des gains\n<\/h3>\n\n<p>\nAu Casino d’Ajaccio, le personnel agit généralement selon une logique “accueil + respect des règles” : accueil, contrôle d’accès, orientation et assistance dans les espaces. Les équipes savent en principe expliquer les bases, indiquer les zones des machines, des tables, du poker, ainsi que l’emplacement de la caisse. Une part importante du rôle consiste à maintenir une ambiance sereine et à faire respecter les procédures internes. En cas de situation délicate, l’approche est souvent méthodique, ce qui réduit les tensions. Ce cadre rassure particulièrement les nouveaux visiteurs, qui recherchent une expérience simple et claire.\n\n<\/p>\n<br>\n\n<p>\nPour les langues, le français reste la référence, et l’anglais est fréquemment compris au moins à un niveau fonctionnel, surtout lorsque l’affluence est plus forte. Les visiteurs peuvent ainsi demander des informations sur l’entrée, le fonctionnement de la caisse ou l’organisation des jeux. Si vous craignez une barrière linguistique, les périodes plus animées offrent souvent davantage de disponibilité. La signalétique à l’intérieur aide aussi : pictogrammes, flèches, panneaux, repères visuels. Même avec un niveau de langue limité, on se repère facilement. L’objectif est de répondre vite et de préserver le rythme de la soirée.\n\n<\/p>\n<br>\n<p>\nLa monnaie de référence est l’euro, ce qui simplifie la gestion du budget jeu et détente. Les paiements se font le plus souvent par carte bancaire et en espèces, et selon les services, le sans‑contact peut être disponible lorsque le règlement de caisse l’autorise. En pratique, beaucoup de clients combinent : carte pour le bar\/restaurant, espèces pour le jeu afin de mieux contrôler les limites. Il est utile de vérifier à l’avance vos plafonds et les frais éventuels, surtout si la carte est émise hors zone euro. Cette préparation évite les surprises et préserve le confort. Dans un casino, la maîtrise du budget fait partie de l’expérience.\n\n<\/p>\n<br>\n<p>\nConcernant les distributeurs et le change, l’organisation vise généralement à ne pas casser le rythme : retrait à proximité et infrastructure bancaire en ville. Pour le change, il est souvent préférable d’effectuer l’opération dans des points officiels en ville et d’utiliser ensuite des euros au casino. Cela limite les écarts de taux et rend les dépenses plus lisibles. Le soir, on préfère éviter des démarches longues, d’où l’intérêt de préparer en amont. Les montants importants peuvent aussi entraîner une vérification d’identité, pratique normale de sécurité. Plus vous anticipez, plus les formalités sont rapides.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains est généralement simple : vous validez le résultat (ticket machine ou règlement de table) puis vous passez à la caisse selon la procédure. Une pièce d’identité peut être demandée, en particulier pour des montants significatifs ou lorsqu’une traçabilité comptable est nécessaire. Le paiement se fait le plus souvent en espèces ou selon les règles internes, et pour des sommes très élevées, des étapes additionnelles peuvent exister : contrôle, saisie des données, choix du mode de règlement. Ces mesures protègent le joueur et répondent aux exigences financières. Il est conseillé de conserver tous les justificatifs jusqu’à la fin. Cela garantit une opération claire et sécurisée.\n\n<\/p>\n<br>\n<p>\nLa fiscalité des gains dépend du profil du joueur et des règles applicables à sa situation, il n’existe donc pas une réponse unique. Le casino n’a pas vocation à remplacer un conseil fiscal personnalisé : le plus sûr est de connaître ses obligations et de consulter un professionnel si nécessaire. Conserver les preuves de paiement et les justificatifs est utile si vous devez déclarer ou documenter un historique financier. Pour la majorité des visiteurs, l’essentiel reste d’obtenir un paiement fluide et sans stress. Avec une pièce d’identité disponible et le respect des procédures, tout se déroule généralement sereinement. Vous profitez ainsi d’un retrait de gains fiable et compréhensible.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite au Casino d’Ajaccio — tenue, accès et itinéraire\n<\/h3>\n\n<p>\nLe Casino d’Ajaccio applique des règles claires, comme la plupart des casinos terrestres, afin de garantir confort et sécurité. À l’entrée, un contrôle d’âge est généralement effectué, l’accès étant réservé aux personnes majeures. La présentation d’une pièce d’identité avec photo est une pratique courante, surtout en soirée et lors des périodes d’affluence. À l’intérieur, le respect d’autrui et une attitude calme sont essentiels, car l’établissement suit un cadre précis. La prise de photos ou de vidéos est souvent limitée dans les zones de jeu pour préserver la confidentialité. La consommation d’alcool s’inscrit dans des règles internes : il est important de rester dans un état approprié. Arriver un peu plus tôt permet de passer les formalités sans stress, notamment quand il y a du monde. Côté tenue, un style soigné est recommandé : un look trop “plage” ou négligé peut entraîner un refus. Selon les espaces, l’usage du téléphone et de certains appareils près des tables peut être restreint. Pour une longue session, mieux vaut vérifier les horaires et choisir un moment plus calme. L’accès est généralement simple grâce à la localisation urbaine, avec taxi, transports et marche.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue (dress‑code)\n<\/h4>\n\n <ul>\n            <li>• \nCasual soigné ou tenue de soirée, chaussures propres, présentation soignée.\n\n<\/li>\n            <li>• \nÉviter tenue de plage, tongs, look trop sportif ou trop “maison”.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’accès :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès réservé aux majeurs avec une pièce d’identité photo.\n\n<\/li>\n            <li>• \nRespect des règles de salle : personnel, joueurs et procédures de jeu.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et restrictions :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRestrictions photo\/vidéo dans les zones de jeu pour la confidentialité.\n\n<\/li>\n            <li>• \nInterdiction de perturber le jeu ou de troubler l’ordre.\n\n<\/li>\n            <li>• \nRefus possible en cas de comportement inadapté ou d’état non conforme.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStationnement et accès :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrivilégier les parkings urbains et finir à pied.\n\n<\/li>\n            <li>• \nTaxi conseillé pour un retour tardif.\n\n<\/li>\n            <li>• \nEn transports, viser un arrêt central puis un court trajet à pied.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité du Casino d’Ajaccio — statuts, points et avantages\n<\/h3>\n\n<p>\nLe programme de fidélité au Casino d’Ajaccio est généralement conçu pour récompenser la régularité et l’activité de jeu de manière simple. Le visiteur s’inscrit une seule fois, puis reçoit une carte ou un profil, sur lequel des points sont crédités. Les points s’accumulent via les machines à sous, certaines animations et parfois via la restauration selon les règles de l’établissement. Plus l’activité est élevée, plus le statut progresse et plus les offres deviennent personnalisées. Pour les nouveaux, c’est un moyen d’obtenir rapidement de petites attentions et de se sentir à l’aise. Pour les habitués, la valeur se révèle dans les invitations, les bonus renforcés et les priorités d’accès. Les niveaux offrent souvent un service plus fluide et des compléments réguliers. Des avantages “anniversaire” et des périodes à points doublés sont fréquents. Le grand plus reste la personnalisation : on reçoit des offres adaptées à son style de jeu. Bien utilisée, la fidélité améliore le budget détente et enrichit l’expérience.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription :\n<\/h4>\n\n <ul>\n            <li>• \n18+ et pièce d’identité photo pour créer le profil.\n\n<\/li>\n            <li>• \nFormulaire simple (coordonnées pour offres ciblées).\n\n<\/li>\n            <li>• \nCarte\/numéro de membre attribué sur place.\n\n<\/li>\n            <li>• \nAcceptation du règlement du programme et des données.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStatuts et obtention\n<\/h4>\n\n <ul>\n            <li>• \nStart — inscription : bonus de bienvenue 10 € en crédits de jeu (1 fois).\n\n<\/li>\n            <li>• \nSilver — dès 500 points\/mois : coupon “cashback” 5 € mensuel.\n\n<\/li>\n            <li>• \nGold — dès 1 500 points\/mois : bonus 20 € + priorité tournois.\n\n<\/li>\n            <li>• \nPlatinum — dès 3 000 points\/mois : bonus 50 €, soirées privées.\n\n<\/li>\n\t    <li>• \nVIP — sur invitation : avantages personnalisés et attentions premium.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nBienvenue : jusqu’à 10 € en crédits — démarrer rapidement.\n\n<\/li>\n            <li>• \nJours x2 points : points doublés certains jours.\n\n<\/li>\n            <li>• \nAnniversaire : coupon 15 € (jeu\/bar selon conditions).\n\n<\/li>\n            <li>• \nInvitations tournois : accès à des dotations type 1 000–5 000 €.\n\n<\/li>\n\t    <li>• \nCombo “bar+jeu” : coupon 10 € cocktail après activité.\n\n<\/li>\n\t    <li>• \nOffres personnalisées : bonus 5–50 € selon historique.\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino d’Ajaccio",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres spéciales du Casino d’Ajaccio — jeu, sorties et saisons\n<\/h3>\n\n<p>\nEn dehors de la fidélité, le Casino d’Ajaccio propose généralement des mécaniques promotionnelles qui rendent la visite plus attractive. Ces offres sont souvent liées à des jours précis, à des créneaux horaires ou à des périodes saisonnières plus animées. Côté machines à sous, on retrouve fréquemment des heures promotionnelles avec crédits additionnels ou mini‑tirages au sort, faciles à comprendre et dynamiques. Pour les jeux de table, les soirées thématiques et mini‑défis permettent de jouer dans un cadre plus “événementiel” sans exigences trop élevées. Une autre catégorie concerne l’art de vivre : formules “jeu + boisson” ou “jeu + dîner” pour une soirée complète. Durant les périodes festives, des opérations renforcées apparaissent, avec cadeaux, jackpots accélérés ou vouchers. Certaines offres incitent aussi à découvrir un nouvel univers, comme la roulette ou une soirée poker. Les chiffres ci‑dessous sont des exemples indicatifs, à vérifier sur place, car les packs évoluent. La logique reste toutefois stable : bonus de visite, bonus d’activité, tirages, soirées à thème. Pour une page SEO, l’intérêt est de montrer la variété et la valeur ajoutée au‑delà du jeu. Voici des exemples concrets.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nТекст\n<\/h4>\n\n <ul>\n            <li>• \nPack “première visite”: Pack “première visite”\n<\/li>\n            <li>• \nHappy Hours machines: Crédits +10% sur un créneau défini en semaine.\n\n\n\n<\/li>\n            <li>• \nTirage slots hebdomadaire: Tirage avec gains jusqu’à 2 000 € pour les joueurs actifs.\n\n<\/li>\n            <li>• \nMini‑jackpots du soir: Série de jackpots rapides 100–500 € chaque soirée.\n\n<\/li>\n\t    <li>• \nWeek‑end poker tournoi: Buy‑in dès 50 €, garantie 3 000 €.\n\n<\/li>\n\t    <li>• \nSoirée roulette: Jetons‑cadeaux 5–25 € pour les participants.\n\n<\/li>\n\t    <li>• \nCombo “dîner + jeu”: Voucher restaurant 15 € après activité définie.\n\n<\/li>\n\t    <li>• \nOffres saisonnières: Cadeaux\/vouchers 10–50 € pendant les semaines festives.\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino d’Ajaccio — slots, tables et poker au même endroit\n<\/h3>\n\n<p>\nLe Casino d’Ajaccio propose généralement un mélange de formats très demandés, afin que chacun trouve son rythme. Pour des sensations immédiates, la zone machines à sous est idéale : règles simples, cadence rapide et thèmes variés, du classique au vidéo‑slot moderne. Les amateurs d’ambiance “live” se tournent vers les tables, où la gestion des mises et la psychologie comptent davantage. La roulette reste populaire grâce à sa simplicité et à la diversité de ses paris, permettant une approche prudente ou plus offensive. Le blackjack attire ceux qui recherchent plus de contrôle et apprécient une logique plus “mathématique”. L’espace poker séduit par la dimension sociale et compétitive, avec la possibilité d’exprimer un vrai savoir‑faire contre d’autres joueurs. Pour les débutants, beaucoup de jeux s’apprennent en une soirée, surtout en démarrant avec des mises modestes. L’expérience est aussi une question d’ambiance : jetons, croupiers, rythme des tables, sensation d’événement. Le choix dépend souvent de l’objectif : se divertir, socialiser, jouer stratégique ou viser un “bon spin”. Alterner les formats aide à rester lucide et à profiter plus longtemps. Voici les incontournables.\n\n<\/p>\n<br>\n <ul>\n            <li>• \nMachines à sous : tours rapides, thèmes variés, bonus fréquents.\n\n<\/li>\n            <li>• \nRoulette : grande classique, nombreux types de paris.\n\n<\/li>\n            <li>• \nBlackjack : jeu de décisions, objectif clair — faire 21.\n\n<\/li>\n            <li>• \nPoker Texas Hold’em : compétition entre joueurs, cash games et tournois.\n\n<\/li>\n\t    <li>• \nStud Poker : format structuré, étapes de mise définies.\n\n<\/li>\n\t    <li>• \nRoulette électronique : rythme rapide, pratique pour débuter.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino d’Ajaccio — minimums et maximums par jeu\n<\/h3>\n\n<p> \nConnaître les limites de mise aide à gérer son budget et à choisir un format adapté. Au Casino d’Ajaccio, les machines à sous offrent souvent l’entrée la plus flexible, tandis que les tables demandent des mises plus “structurées” par coup. Le poker varie selon les tables cash (blindes) et les tournois (buy‑in), avec une logique différente de gestion. Le tableau ci‑dessous sert d’indication SEO avec des fourchettes typiques pour donner un ordre d’idée. Les limites réelles peuvent évoluer selon l’horaire, la table et les événements.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#6A367F; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimum<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximum<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,02 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 200 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker cash game (blindes)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1\/2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10\/20 €<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Tournoi poker (buy‑in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">300 €<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nÉvénements et divertissements au Casino d’Ajaccio — soirées, shows et esprit club\n<\/h3>\n\n<p>\nLe Casino d’Ajaccio est souvent perçu comme plus qu’un lieu de jeu : c’est un point de sortie nocturne. On y vient pour un “scénario” : jouer, puis profiter de la musique, des cocktails et d’une ambiance de nuit. Les rendez‑vous réguliers — soirées à thème, sets musicaux, animations de jeu — donnent un rythme à la semaine. Cela compte énormément pour l’expérience : les jeux peuvent rester les mêmes, mais l’atmosphère change selon la soirée, la musique et l’affluence. Lors des périodes les plus animées, l’énergie devient plus festive et le casino se transforme en vraie destination de divertissement.\n\n<\/p>\n<br>\n\n<p>\nUn accent particulier est généralement mis sur les formats tardifs : ambiance bar, musique, et une approche plus “club”. Les visiteurs alternent souvent : quelques sessions de jeu, une pause au bar, puis retour aux tables, ce qui maintient la dynamique. Ce cycle évite la monotonie et garde l’énergie de la soirée. En groupe, c’est idéal : certains jouent, d’autres discutent ou profitent de la musique. Les événements peuvent aussi suivre le calendrier : périodes festives, saisons touristiques, dates thématiques.\n\n<\/p>\n<br>\n<p>\nLa partie show est souvent pensée pour compléter le jeu sans l’écraser. On retrouve ainsi des formats “compatibles casino” : sets DJ, touches live, moments forts ponctuels. Cela crée l’impression qu’il se passe quelque chose, même pour une visite courte. Les soirées poker sont également très recherchées, car la structure du tournoi transforme le jeu en événement. Pour les amateurs de compétition, c’est un des scénarios les plus marquants. Au final, l’animation sert de moteur de fidélité, en renouvelant l’expérience et en invitant à tester d’autres formats.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les divertissements\n<\/h4>\n\n <ul>\n            <li>• \nSoirées à thème : ambiance et style selon un thème.\n\n<\/li>\n            <li>• \nSets DJ : programme tardif, esprit festif.\n\n<\/li>\n            <li>• \nLive music (format léger) : touches musicales pour l’atmosphère.\n\n<\/li>\n            <li>• \nTournois poker : événements structurés avec gains.\n\n<\/li>\n\t    <li>• \nCash games poker : tables régulières pour joueurs confirmés.\n\n<\/li>\n\t    <li>• \nMini‑events de jeu : challenges et tirages rapides sur slots.\n\n<\/li>\n\t    <li>• \nNuits spéciales festives : opérations saisonnières renforcées.\n\n<\/li>\n\t    <li>• \nAnimations bar : cocktails signature et offres de soirée.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurant et détente au Casino d’Ajaccio — où dîner et se relaxer\n<\/h3>\n\n<p>\nLa détente au Casino d’Ajaccio repose sur une idée simple : une soirée fluide, sans “rupture” de lieux. On joue, on se repose, on dîne, tout en gardant le même rythme. Ce format plaît à ceux qui ne veulent pas multiplier les déplacements et perdre l’ambiance. La restauration rend la sortie plus “événementielle” : un dîner transforme la visite en vraie soirée, pas seulement en session de jeu. Le bar, lui, permet de souffler, d’échanger et de profiter de l’atmosphère. Même avec un jeu modéré, l’expérience devient riche et complète.\n\n<\/p>\n<br>\n\n<p>\nLe restaurant La Rotonde est souvent présenté comme la référence gastronomique intégrée au complexe, idéale pour la grande pause de la soirée. Beaucoup optent pour un dîner avant de jouer ou comme final élégant pour conclure la nuit. Le piano‑bar \/ bar L’Entracte apporte une touche musicale et une ambiance plus vivante, parfaite pour les transitions entre deux sessions. En groupe, c’est particulièrement confortable : certains profitent du bar pendant que d’autres jouent. Cette combinaison “repas + cocktails + musique” améliore le confort et rend la soirée plus mémorable.\n\n<\/p>\n<br>\n<p>\nPour l’hébergement, le scénario le plus courant reste urbain : choisir un hôtel à proximité afin de rester autonome la nuit. C’est pratique pour les voyageurs comme pour ceux qui souhaitent rester tard, notamment lors d’animations ou de soirées poker. Un hôtel proche simplifie tout : pas de précipitation, plus de sécurité et un meilleur confort. Pour un site, il est utile de rappeler qu’un casino peut parfaitement fonctionner sans hôtel sur place si l’offre alentour est riche. L’essentiel est d’anticiper la logistique et de choisir un format de séjour adapté. Ainsi, le Casino d’Ajaccio s’intègre naturellement dans un parcours de soirée en ville.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les espaces détente\n<\/h4>\n\n <ul>\n            <li>• \nRestaurant La Rotonde : dîner et pause confortable entre sessions.\n\n<\/li>\n            <li>• \nPiano‑bar \/ Bar L’Entracte : cocktails, musique, ambiance de nuit.\n\n<\/li>\n            <li>• \nEspaces de pause en salle : respirations rapides sans quitter le lieu.\n\n<\/li>\n            <li>• \nHôtels en ville à proximité : retour simple après une soirée tardive.\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Y a‑t‑il une limite de temps sur place ?",
+                    "answer": "En général non, mais il faut respecter le règlement et le bon ordre dans les salles.\n\n\n"
+                },
+                {
+                    "title": "Que faire si je ne connais pas les règles ?",
+                    "answer": "Commencez par les machines ou l’électronique, puis demandez une explication courte et observez quelques coups avant de jouer aux tables.\n\n\n"
+                },
+                {
+                    "title": "Y a‑t‑il des plafonds de retrait à proximité ?",
+                    "answer": "Les plafonds dépendent de votre banque et de votre carte ; vérifiez limites et frais avant la visite.\n\n\n"
+                },
+                {
+                    "title": "Est‑ce sûr de garder de grosses sommes sur soi ?",
+                    "answer": "Mieux vaut éviter : privilégiez la carte, retirez progressivement et restez vigilant(e).\n\n\n"
+                },
+                {
+                    "title": "Quel est l’étiquette aux tables ?",
+                    "answer": "Ne touchez pas aux jetons des autres, évitez de commenter le jeu, respectez le croupier et posez vos questions avant de commencer.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1199",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino d’Ajaccio "
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}

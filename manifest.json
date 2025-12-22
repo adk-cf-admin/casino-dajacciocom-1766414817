@@ -1,0 +1,19 @@
+{
+  "name": "Casino d’Ajaccio ",
+  "short_name": "Casino d’Ajaccio ",
+  "theme_color": "",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1766412876-favicon-11.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
